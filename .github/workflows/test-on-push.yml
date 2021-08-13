@@ -13,6 +13,7 @@ jobs:
         include:
           - nest-version: "^5"
           - nest-version: "^6"
+          - nest-version: "^7"
           - nest-version: ""
     steps:
       - name: checkout
